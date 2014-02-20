@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">खर्च में हिस्सेदारी</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="hello_world">नमस्ते दुनिया!</string>
+    <string name="done">पूर्ण</string>
+    <string name="hello_blank_fragment">नमस्ते रिक्त टुकड़ा</string>
+    <string name="firstchoice"> बिल की तस्वीर ले लो</string>
+    <string name="secondchoice"> मैन्युअल मान दर्ज</string>
+    <string name="or"> या</string>
+    <string name="title_activity_enter_manual_values">मैन्युअल मान दर्ज</string>
+    <string name="add_amount_text">यहाँ मात्रा में जोड़ें</string>
+    <string name="add_amount_more"><u>अधिक मात्रा में जोड़ें &#8230;</u></string>
+    <string name="help">मदद</string>
+    <string name="title_activity_help">मदद</string>
+    <string name="help_Instruction">1) आप दो तरह से राशि जोड़ सकते हैं \n
+	    								A) एक तस्वीर पर क्लिक करके \n
+	    								B) मैन्युअल रूप से मूल्यों को जोड़कर \n 
+	    							2) राशि जोड़ने के बाद क्या आप बिल विभाजित करना चाहते हैं, जिनके साथ भागीदारी का कोई भी चुन सकते हैं. \n
+	    							3) कि बस आपको सूचित करना चाहते हैं जिसे करने के लिए फ़ोन नंबरों को जोड़ने के बाद.</string>
+    <string name="button_next">अगला</string>
+    <string name="button_send_msg">संदेश भेजें</string>
+    <string name="title_activity_divide_bill">विधेयक फूट डालो</string>
+    <string name="Note">नोट: यदि आप इस बिल को विभाजित करना चाहते हैं, जिनके साथ संख्या में व्यक्तियों का चयन करें</string>
+    <string name="Divide_Bill_In">विधेयक में विभाजित :</string>
+    <string name="checkgallery">विधेयक में देखें</string>
+
+    <string-array name="person_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="title_activity_notify">सूचित करना</string>
+    <string name="notify_users">प्रयोक्ता को सूचित</string>
+    <string name="enterNo">फ़ोन नंबर दर्ज: </string>
+    <string name="addPhoneNo"><u>फ़ोन नंबर जोड़ें &#8230;</u></string>
+    <string name="PhoneHint">संख्या लिखें </string>
+    <string name="title_activity_text_sent">भेजे गए पाठ</string>
+    <string name="messgaeSent">पाठ संदेश भेज दिया गया है!</string>
+    <string name="callHome"><u>एक नया विधेयक बनाने के लिए यहां क्लिक करें</u></string>
+    <string name="feedback"><u>प्रतिपुष्टि</u></string>
+    <string name="title_activity_feedback">प्रतिपुष्टि</string>
+    <string name="enterYourNo">अपने फोन नंबर दर्ज करें</string>
+    <string name="Message">संदेश</string>
+    <string name="enterMessage">अपनी प्रतिक्रिया दर्ज करें !</string>
+    <string name="sendSms">एसएमएस भेजें</string>
+    <string name="home">घर</string>
+    <string name="title_activity_thanks">धन्यवाद</string>
+    <string name="thanks">धन्यवाद ! \nआपकी प्रतिक्रिया हमारे लिए महत्वपूर्ण है.</string>
+    <string name="button_add">अधिक मात्रा में जोड़ें</string>
+
+</resources>
